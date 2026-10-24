@@ -1,4 +1,4 @@
-# Counting_tree-like_multigraphs with prescribed numbers of vertices, self-loops and multiple edges
+# Counting tree-like multigraphs with prescribed numbers of vertices, self-loops, and multiple edges
 
 A Python implementation using Dynamic Programming to count non-isomorphic tree-like multigraphs with `n` vertices, `s` self-loops, and `m` multiple edges.
 
